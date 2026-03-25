@@ -1,4 +1,4 @@
-# L2N
+# Lois
 learn2earn website
 
 ## containerize this app using docker and docker-compose
